@@ -6,7 +6,7 @@ cd minecraft-ddos
 ```
 2 run
 ```
-python meow.py
+python ddos-meow.py
 ```
 
 <div align="center">
